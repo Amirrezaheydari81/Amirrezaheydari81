@@ -1,4 +1,7 @@
 # 👋 Hi there! I'm Amirreza Heydari 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A238&lines=Hello%2C+I+am+a+fast+programmer)](https://git.io/typing-svg)
+
 A young man who loves programming and solving challenges, interested in **Web** and **JavaScript**
 
 ### 💻Technologies and Tools
