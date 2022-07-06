@@ -19,6 +19,16 @@ A young man who loves programming and solving challenges, interested in **Web** 
 
 <br />
 
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amirrezaheydari81&hide_border=true" />
+</p>
+<br>
+
+![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Amirrezaheydari81's%20Contribution%20Graph&theme=gruvbox&bg_color=ffffff&hide_border=true&line=FE7D37&point=FE7D37)
+
+<br />
+
 ### 🎈The size of my projects
 [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/user-persona-template?color=orange&label=user-persona-template">](https://github.com/Amirrezaheydari81/user-persona-template) [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/btn-component?color=orange&label=btn-component">](https://github.com/Amirrezaheydari81/btn-component)
  [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/landing-page-01-figam?color=orange&label=landing-page-01">](https://github.com/Amirrezaheydari81/landing-page-01-figam)
