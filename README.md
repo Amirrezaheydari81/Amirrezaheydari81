@@ -45,3 +45,5 @@ A young man who loves programming and solving challenges, interested in **Web** 
 ### 📌My side specialties
 <img src="https://img.shields.io/badge/Photoshop-70%25-brightgreen"> <img src="https://img.shields.io/badge/Clean code-50%25-brightgreen"> <img src="https://img.shields.io/badge/Video editor-50%25-brightgreen"> <img src="https://img.shields.io/badge/photographer-60%25-brightgreen"> <img src="https://img.shields.io/badge/Ui design-45%25-brightgreen"> <img src="https://img.shields.io/badge/Ux design-35%25-brightgreen"> <img src="https://img.shields.io/badge/Optimize website-90%25-brightgreen"> <img src="https://img.shields.io/badge/Search engine optimization(SEO)-90%25-brightgreen">
 #### Feel free to create a pull request to contribute to any of my repositories.🧡
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirrezaheydari81.amirrezaheydari81)
