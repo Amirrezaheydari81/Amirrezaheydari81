@@ -1,5 +1,8 @@
 # 👋 Hi there! I'm Amirreza Heydari 
 
+<img src="https://user-images.githubusercontent.com/63079207/178312962-03352c4d-18a5-4c63-99e4-fc018afb2f66.jpg" >
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A238&lines=Hello%2C+I+am+a+fast+programmer)](https://git.io/typing-svg)
 
 A young man who loves programming and solving challenges, interested in **Web** and **JavaScript**
