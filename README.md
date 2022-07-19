@@ -47,6 +47,7 @@ A young man who loves programming and solving challenges, interested in **Web** 
  [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/reading-time-wp-CTM?color=orange&label=reading-time-wp-CTM">](https://github.com/Amirrezaheydari81/reading-time-wp-CTM)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/free-programming-books?color=orange&label=free-programming-books">](https://github.com/Amirrezaheydari81/free-programming-books)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/bug-xmlrpc-wordpress?color=orange&label=bug-xmlrpc-wordpress">](https://github.com/Amirrezaheydari81/bug-xmlrpc-wordpress)
+    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/theme-wordpress-ctm?color=orange&label=theme-wordpress-ctm">](https://github.com/Amirrezaheydari81/theme-wordpress-ctm)
 <br />
 
 ### 📌My side specialties
