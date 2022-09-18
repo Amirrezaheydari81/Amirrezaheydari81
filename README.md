@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A238&lines=Hello%2C+I+am+a+fast+programmer)](https://git.io/typing-svg)
 
-A young man who loves programming and solving challenges, interested in **Web** and **JavaScript**
+𝘈 𝘺𝘰𝘶𝘯𝘨 𝘮𝘢𝘯 𝘸𝘩𝘰 𝘭𝘰𝘷𝘦𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦𝘴, 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘞𝘦𝘣 𝘢𝘯𝘥 **𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵**
 
 ### 💻Technologies and Tools
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -59,7 +59,6 @@ A young man who loves programming and solving challenges, interested in **Web** 
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/change-wp-login-logo?color=orange&label=change-wp-login-logo">](https://github.com/Amirrezaheydari81/change-wp-login-logo)
 <br />
 
-code-editor-html
 ### 📌My side specialties
 <img src="https://img.shields.io/badge/Photoshop-70%25-brightgreen"> <img src="https://img.shields.io/badge/Clean code-50%25-brightgreen"> <img src="https://img.shields.io/badge/Video editor-50%25-brightgreen"> <img src="https://img.shields.io/badge/photographer-60%25-brightgreen"> <img src="https://img.shields.io/badge/Ui design-45%25-brightgreen"> <img src="https://img.shields.io/badge/Ux design-35%25-brightgreen"> <img src="https://img.shields.io/badge/Optimize website-90%25-brightgreen"> <img src="https://img.shields.io/badge/Search engine optimization(SEO)-90%25-brightgreen">
 #### Feel free to create a pull request to contribute to any of my repositories.🧡
