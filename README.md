@@ -8,16 +8,17 @@
 𝘈 𝘺𝘰𝘶𝘯𝘨 𝘮𝘢𝘯 𝘸𝘩𝘰 𝘭𝘰𝘷𝘦𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦𝘴, 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘞𝘦𝘣 𝘢𝘯𝘥 **𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵**
 
 ### 💻Technologies and Tools
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="vue js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="right" alt="iran flag" width="200" src="iran-flag-grunge.svg">
+<br />
+
+### 🧾Blog and Publications
+[<img align="left" alt="Dev.to" width="40px" src="https://user-images.githubusercontent.com/63079207/193222914-574a2c68-ac48-42b9-a0cd-d9a0804e98eb.png" />](https://dev.to/amirrezaheydari)
+[<img align="left" alt="Virgool.io" width="40px" src="https://user-images.githubusercontent.com/63079207/193224096-94b5da33-8c72-422f-8231-d8a07a418211.png" />](https://dev.to/amirrezaheydari)
 <br />
 
 ### 🔔Connect with me
