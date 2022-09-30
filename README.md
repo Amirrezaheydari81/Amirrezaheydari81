@@ -21,11 +21,20 @@
 [<img align="left" alt="Virgool.io" width="40px" src="https://user-images.githubusercontent.com/63079207/193224096-94b5da33-8c72-422f-8231-d8a07a418211.png" />](https://dev.to/amirrezaheydari)
 <br />
 
+### 🔶Certificate
+[<img align="left" alt="Google Analytics for Beginners" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/X7fKwZ_VTP-8V_-mlmCGYw)
+[<img align="left" alt="Introduction to Data Studio" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/UsNMZbPHRPyKzoL4f0ZHLA)
+[<img align="left" alt="Google Tag Manager Fundamentals" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/k5yUuE6qTmqnW9VqQKmz-Q)
+[<img align="left" alt="Advanced Google Analytics" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/RSubvhFnTMaC8zhJXqqoKA)
+[<img align="left" alt="Google Analytics for Power Users" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/qDdHPKoiTQuGqoGDw3zkUg)
+[<img align="left" alt="Getting Started With Google Analytics 360" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
+<br />
+
 ### 🔔Connect with me
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://clarotm.ir/)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://iseokar.ir/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=orange">](https://www.instagram.com/amirrezaheydariinsta/)
-
+<br />
 <br />
 
 <p align="left">
