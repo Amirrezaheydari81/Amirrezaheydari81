@@ -6,12 +6,14 @@
 🎈**ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ʙᴇ ɪʀʀᴇᴘʟᴀᴄᴇᴀʙʟᴇ, ᴏɴᴇ ᴍᴜꜱᴛ ᴀʟᴡᴀʏꜱ ʙᴇ ᴅɪꜰꜰᴇʀᴇɴᴛ || برای غیرقابل تعویض بودن باید همیشه متفاوت بود**
 
 ### 💻Technologies and Tools
-<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img align="left" alt="Html5 & Css3 & Javascript" width="120px" src="https://user-images.githubusercontent.com/63079207/196919280-ce92d10a-5b05-4481-8a05-cc0d57f4bb91.png" />
 <img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="vue js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<img align="left" alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="nextjs" width="40px" src="https://user-images.githubusercontent.com/63079207/196910667-08836015-818a-4101-b6b0-1bc25a2a97e0.png" />
+
 <img align="right" alt="clarotm - تیم کلارو" width="200" src="https://user-images.githubusercontent.com/63079207/196912682-fb823550-71cb-4861-8ac6-9ac85e2149c2.png">
 <br />
 
