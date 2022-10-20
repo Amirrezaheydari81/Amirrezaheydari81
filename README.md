@@ -13,6 +13,7 @@
 <img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="vue js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<img align="left" alt="nextjs" width="40px" src="https://user-images.githubusercontent.com/63079207/196910667-08836015-818a-4101-b6b0-1bc25a2a97e0.png" />
 <img align="right" alt="iran flag" width="200" src="iran-flag-grunge.svg">
 <br />
 
