@@ -3,9 +3,7 @@
 <img src="https://user-images.githubusercontent.com/63079207/178312962-03352c4d-18a5-4c63-99e4-fc018afb2f66.jpg" >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A238&lines=Hello%2C+I+am+a+fast+programmer)](https://git.io/typing-svg)
-
-𝘈 𝘺𝘰𝘶𝘯𝘨 𝘮𝘢𝘯 𝘸𝘩𝘰 𝘭𝘰𝘷𝘦𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦𝘴, 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘞𝘦𝘣 𝘢𝘯𝘥 **𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵**
+🎈**ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ʙᴇ ɪʀʀᴇᴘʟᴀᴄᴇᴀʙʟᴇ, ᴏɴᴇ ᴍᴜꜱᴛ ᴀʟᴡᴀʏꜱ ʙᴇ ᴅɪꜰꜰᴇʀᴇɴᴛ || برای غیرقابل تعویض بودن باید همیشه متفاوت بود**
 
 ### 💻Technologies and Tools
 <img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -14,7 +12,7 @@
 <img align="left" alt="vue js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="nextjs" width="40px" src="https://user-images.githubusercontent.com/63079207/196910667-08836015-818a-4101-b6b0-1bc25a2a97e0.png" />
-<img align="right" alt="iran flag" width="200" src="iran-flag-grunge.svg">
+<img align="right" alt="clarotm - تیم کلارو" width="200" src="https://user-images.githubusercontent.com/63079207/196912682-fb823550-71cb-4861-8ac6-9ac85e2149c2.png">
 <br />
 
 ### 🧾Blog and Publications
@@ -23,12 +21,19 @@
 <br />
 
 ### 🔶Certificate
-[<img align="left" alt="Google Analytics for Beginners" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/X7fKwZ_VTP-8V_-mlmCGYw)
-[<img align="left" alt="Introduction to Data Studio" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/UsNMZbPHRPyKzoL4f0ZHLA)
-[<img align="left" alt="Google Tag Manager Fundamentals" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/k5yUuE6qTmqnW9VqQKmz-Q)
-[<img align="left" alt="Advanced Google Analytics" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/RSubvhFnTMaC8zhJXqqoKA)
-[<img align="left" alt="Google Analytics for Power Users" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/qDdHPKoiTQuGqoGDw3zkUg)
-[<img align="left" alt="Getting Started With Google Analytics 360" width="40px" src="https://user-images.githubusercontent.com/63079207/193226188-d575aa8a-018c-4cfc-8ee5-193cd395d793.png" />](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
+
+- **Google Analytics for Beginners** [Visti](https://analytics.google.com/analytics/academy/certificate/X7fKwZ_VTP-8V_-mlmCGYw)
+
+- **Introduction to Data Studio** [Visti](https://analytics.google.com/analytics/academy/certificate/UsNMZbPHRPyKzoL4f0ZHLA)
+
+- **Google Tag Manager Fundamentals** [Visti](https://analytics.google.com/analytics/academy/certificate/k5yUuE6qTmqnW9VqQKmz-Q)
+
+- **Advanced Google Analytics** [Visti](https://analytics.google.com/analytics/academy/certificate/RSubvhFnTMaC8zhJXqqoKA)
+
+- **Google Analytics for Power Users** [Visit](https://analytics.google.com/analytics/academy/certificate/qDdHPKoiTQuGqoGDw3zkUg)
+
+- **Getting Started With Google Analytics 360** [Visti](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
+
 <br />
 
 ### 🔔Connect with me
