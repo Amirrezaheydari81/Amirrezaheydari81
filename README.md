@@ -15,12 +15,13 @@
 <img align="left" alt="nextjs" width="40px" src="https://user-images.githubusercontent.com/63079207/196910667-08836015-818a-4101-b6b0-1bc25a2a97e0.png" />
 
 <img align="right" alt="clarotm - تیم کلارو" width="200" src="https://user-images.githubusercontent.com/63079207/196912682-fb823550-71cb-4861-8ac6-9ac85e2149c2.png">
-<br />
+<br /><br />
 
 ### 🧾Blog and Publications
+
 [<img align="left" alt="Dev.to" width="40px" src="https://user-images.githubusercontent.com/63079207/193222914-574a2c68-ac48-42b9-a0cd-d9a0804e98eb.png" />](https://dev.to/amirrezaheydari)
 [<img align="left" alt="Virgool.io" width="40px" src="https://user-images.githubusercontent.com/63079207/193224096-94b5da33-8c72-422f-8231-d8a07a418211.png" />](https://dev.to/amirrezaheydari)
-<br />
+<br /><br />
 
 ### 🔶Certificate
 
@@ -36,20 +37,19 @@
 
 - **Getting Started With Google Analytics 360** [Visti](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
 
-<br />
+<br /><br />
 
 ### 🔔Connect with me
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://clarotm.ir/)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://iseokar.ir/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=orange">](https://www.instagram.com/amirrezaheydariinsta/)
-<br />
-<br />
+<br /><br />
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amirrezaheydari81&hide_border=true" />
 </p>
-<br>
+<br />
 
 ![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Amirrezaheydari81's%20Contribution%20Graph&theme=gruvbox&bg_color=ffffff&hide_border=true&line=FE7D37&point=FE7D37)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Amirrezaheydari81)
