@@ -43,6 +43,8 @@
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://clarotm.ir/)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://iseokar.ir/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=orange">](https://www.instagram.com/amirrezaheydariinsta/)
+[<img src="https://img.shields.io/badge/wordpress-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=blue">](https://profiles.wordpress.org/clarotm/)
+
 <br /><br />
 
 <p align="left">
