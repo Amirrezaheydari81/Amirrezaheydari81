@@ -78,7 +78,6 @@
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Artificial-intelligence-of-tmaclaro?color=orange&label=Artificial-intelligence-of-tmaclaro">](https://github.com/Amirrezaheydari81/Artificial-intelligence-of-tmaclaro)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/change-wp-login-logo?color=orange&label=change-wp-login-logo">](https://github.com/Amirrezaheydari81/change-wp-login-logo)
     [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/bantu-warga-web?color=orange&label=bantu-warga-web">](https://github.com/Amirrezaheydari81/bantu-warga-web)
-   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/choobApp?color=orange&label=choobApp">](https://github.com/Amirrezaheydari81/choobApp)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/bootstrap?color=orange&label=bootstrap">](https://github.com/Amirrezaheydari81/bootstrap)
    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/gittutorial?color=orange&label=gittutorial">](https://github.com/Amirrezaheydari81/gittutorial)
    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/face.api?color=orange&label=face.api">](https://github.com/Amirrezaheydari81/face.api)
