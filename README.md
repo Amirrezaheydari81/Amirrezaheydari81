@@ -77,6 +77,15 @@
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/code-editor-html?color=orange&label=code-editor-html">](https://github.com/Amirrezaheydari81/code-editor-html)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Artificial-intelligence-of-tmaclaro?color=orange&label=Artificial-intelligence-of-tmaclaro">](https://github.com/Amirrezaheydari81/Artificial-intelligence-of-tmaclaro)
   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/change-wp-login-logo?color=orange&label=change-wp-login-logo">](https://github.com/Amirrezaheydari81/change-wp-login-logo)
+    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/bantu-warga-web?color=orange&label=bantu-warga-web">](https://github.com/Amirrezaheydari81/bantu-warga-web)
+   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/choobApp?color=orange&label=choobApp">](https://github.com/Amirrezaheydari81/choobApp)
+  [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/bootstrap?color=orange&label=bootstrap">](https://github.com/Amirrezaheydari81/bootstrap)
+   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/gittutorial?color=orange&label=gittutorial">](https://github.com/Amirrezaheydari81/gittutorial)
+   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/face.api?color=orange&label=face.api">](https://github.com/Amirrezaheydari81/face.api)
+   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/MTProto-Proxy-link-generator?color=orange&label=MTProto-Proxy-link-generator">](https://github.com/Amirrezaheydari81/MTProto-Proxy-link-generator)
+   [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/md5-hash-genarator?color=orange&label=md5-hash-genarator">](https://github.com/Amirrezaheydari81/md5-hash-genarator)
+      [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Motivational-phrases?color=orange&label=Motivational-phrases">](https://github.com/Amirrezaheydari81/Motivational-phrases)
+        [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Motivational-phrases?color=orange&label=Motivational-phrases">](https://github.com/Amirrezaheydari81/Motivational-phrases)
 <br />
 
 ### 📌My side specialties
