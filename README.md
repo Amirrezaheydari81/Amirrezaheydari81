@@ -84,8 +84,6 @@
    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/face.api?color=orange&label=face.api">](https://github.com/Amirrezaheydari81/face.api)
    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/MTProto-Proxy-link-generator?color=orange&label=MTProto-Proxy-link-generator">](https://github.com/Amirrezaheydari81/MTProto-Proxy-link-generator)
    [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/md5-hash-genarator?color=orange&label=md5-hash-genarator">](https://github.com/Amirrezaheydari81/md5-hash-genarator)
-      [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Motivational-phrases?color=orange&label=Motivational-phrases">](https://github.com/Amirrezaheydari81/Motivational-phrases)
-        [<img src= "https://img.shields.io/github/languages/code-size/Amirrezaheydari81/Motivational-phrases?color=orange&label=Motivational-phrases">](https://github.com/Amirrezaheydari81/Motivational-phrases)
 <br />
 
 ### 📌My side specialties
