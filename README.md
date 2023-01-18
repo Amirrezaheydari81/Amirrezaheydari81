@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&show_icons=true&theme=dark&hide_border=true&icon_color=FF7B09" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&count_private=false&show_icons=true&theme=dark&hide_border=true&icon_color=FF7B09" />
 </p>
 
 ### 💻Technologies and Tools
