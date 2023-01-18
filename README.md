@@ -18,10 +18,10 @@
 
 ### 🔔Connect with me
 
-<a href="https://www.linkedin.com/in/nafas-ebrahimi-325653189">
+<a href="https://www.linkedin.com/in/amirreza-heydari/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
-<a href="https://telegram.me/nafas_ebra">
+<a href="https://telegram.me/ipsar">
 <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a> 
 <a href="https://www.instagram.com/amirrezaheydariinsta/">
