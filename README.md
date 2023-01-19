@@ -1,5 +1,11 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirrezaheydari81.amirrezaheydari81)
+
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&count_private=false&show_icons=true&theme=dark&hide_border=true&icon_color=FF7B09" />
+
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&count_private=false&show_icons=true&theme=dark&hide_border=true&icon_color=FF7B09" />
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaheydari81&show_icons=true&locale=en&layout=compact" alt="amirrezaheydari81" />
+  
 </p>
 
 ### 💻Technologies and Tools
@@ -44,7 +50,3 @@
 - **Google Analytics for Power Users** [Visit](https://analytics.google.com/analytics/academy/certificate/qDdHPKoiTQuGqoGDw3zkUg)
 
 - **Getting Started With Google Analytics 360** [Visti](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
-
-<br /><br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirrezaheydari81.amirrezaheydari81)
