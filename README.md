@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amirrezaheydari81&count_private=false&show_icons=true&theme=dark&hide_border=true&icon_color=FF7B09" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=amirrezaheydari81&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide_title=true" />
   
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaheydari81&show_icons=true&locale=en&layout=compact" alt="amirrezaheydari81" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaheydari81&show_icons=true&theme=dark&locale=en&layout=compact" alt="amirrezaheydari81" />
   
 </p>
 
