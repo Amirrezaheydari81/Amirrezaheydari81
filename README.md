@@ -1,6 +1,6 @@
 ### 💻Technologies and Tools
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-html5-000?style=for-the-badge&logo=html5&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-css3-000?style=for-the-badge&logo=css3&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
