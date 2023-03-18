@@ -28,6 +28,7 @@
 <br />
 <hr />
 
+<!---
 ### 🔶Certificate
 
 - **Google Analytics for Beginners** [Visti](https://analytics.google.com/analytics/academy/certificate/X7fKwZ_VTP-8V_-mlmCGYw)
@@ -41,6 +42,7 @@
 - **Google Analytics for Power Users** [Visit](https://analytics.google.com/analytics/academy/certificate/qDdHPKoiTQuGqoGDw3zkUg)
 
 - **Getting Started With Google Analytics 360** [Visti](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
+-->
 
 <p align="center">
 
