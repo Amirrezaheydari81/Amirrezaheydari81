@@ -44,16 +44,5 @@
 - **Getting Started With Google Analytics 360** [Visti](https://analytics.google.com/analytics/academy/certificate/pzRCRhdxQ3GOl_kk_UxB8A)
 -->
 
-<p align="center">
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=amirrezaheydari81&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide_title=true" />
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaheydari81&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="amirrezaheydari81" />
-  <p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Amirrezaheydari81&theme=github-compact" />
-  
-</p> 
-</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirrezaheydari81.amirrezaheydari81)
