@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=Wordpress&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=Node.JS&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Reactjs-000?style=for-the-badge&logo=React&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&color=0D1117&logoColor=51B4D0&labelColor=0D1117">
 </div>
 
 ### 🔔Connect with me
