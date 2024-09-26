@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amirreza</h1>
 <h3 align="center">A web designer and user interface designer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaheydari81" alt="amirrezaheydari81" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaheydari81&theme=onedark" alt="amirrezaheydari81" /></a> </p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirrezaheydari81.amirrezaheydari81)
 
 - 🌱 I’m currently learning **Laravel**
