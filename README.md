@@ -6,7 +6,7 @@
 <p align="center">
 🌱 I’m currently learning <b>Laravel</b></li>
 <br/>
-📄 Know about my experiences <a href="https://clarotm.ir/resume.pdf](https://clarotm.ir/resume.pdf">Show</a>
+📄 Know about my experiences <a href="https://clarotm.ir/resume.pdf">Show</a>
 </p>
 
 <h3 align="center">Connect with me</h3>
