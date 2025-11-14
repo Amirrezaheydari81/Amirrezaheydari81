@@ -14,7 +14,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaheydari81&theme=onedark&column=5" alt="amirrezaheydari81" /></a> </p>
 
 ## Ideas that become reality ✨
-<a href="https://clarotm.ir/compress-image/"><img width="300px" src="./compress-image.png" /></a>
+<div align="center">
+  <a href="https://clarotm.ir/compress-image/"><img width="300px" src="./compress-image.png" /></a>
 <a href="https://clarotm.ir/keyword-tool/"><img width="300px" src="./keyword-tool.png" /></a>
 <a href="https://clarotm.ir/convert-text-capcut/"><img width="300px" src="./convert-text-capcut.png" /></a>
 <a href="https://clarotm.ir/md5-hash-genarator/"><img width="300px" src="./md5-hash-genarator.png" /></a>
+
+</div>
