@@ -11,7 +11,7 @@
 <li><a href="https://instagram.com/hey.site">Instagram</a></li>
 </ul>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaheydari81&theme=onedark&column=5" alt="amirrezaheydari81" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaheydari81&theme=onedark&column=5" alt="amirrezaheydari81" /></a> </p> -->
 
 ## Ideas that become reality ✨
 <div align="center">
